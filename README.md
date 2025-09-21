@@ -10,9 +10,10 @@ This project implements and backtests two classic trading strategies — **momen
 Both strategies are compared against a baseline of simply holding the S&P 500.
 
 ## 📂 Files
-- `momentum_meanreversion.ipynb` — Jupyter/Colab notebook with full code.  
-- `sp500.csv` — Historical price dataset (can be replaced with your own data).  
+- `Momentum_Mean_Reversion.ipynb` — Jupyter/Colab notebook with full code.  
+- `all_stocks_5yr.csv` — Stock data of S&P500 from 2013-2018
 
+  
 ## 📊 Results
 - Plots cumulative returns of strategies vs benchmark.  
 - Evaluates Sharpe ratio, drawdowns, and volatility.  
@@ -21,9 +22,4 @@ Both strategies are compared against a baseline of simply holding the S&P 500.
 ## 🛠️ Tech Stack
 - Python, Pandas, NumPy, Matplotlib  
 
-## ✨ Next Steps
-- Add transaction costs for realism  
-- Try multi-asset trading (pairs)  
-- Test on different time periods  
 
----
