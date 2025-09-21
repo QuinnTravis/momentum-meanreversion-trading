@@ -1,4 +1,4 @@
-# momentum-meanreversion-trading
+# Momentum-Mean_Reversion-trading
 
 
 This project implements and backtests two classic trading strategies — **momentum** and **mean reversion** — using historical S&P 500 data.
